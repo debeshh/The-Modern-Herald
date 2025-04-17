@@ -1,12 +1,60 @@
-# React + Vite
+# The Modern Herald - AI News App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Modern Herald is an AI-powered news app that curates top headlines in categories like Technology, Business, Health, Science, Sports, and Entertainment. Built with React and styled for a modern and elegant user experience, this app delivers news in a clean, simple interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **AI-powered news curation**: Get the latest news from trusted sources.
+- **Categories**: Browse news in various categories such as Technology, Business, Health, Science, Sports, and Entertainment.
+- **Responsive Design**: Works seamlessly on mobile and desktop.
+- **Elegant UI**: Clean and simple design with a modern, Apple-inspired look.
 
-## Expanding the ESLint configuration
+## Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Check out the live demo here:  
+[Demo - The Modern Herald](https://fake-demo-url.com)
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/the-modern-herald.git
+
+	2.	Navigate into the project directory:
+
+cd the-modern-herald
+
+
+	3.	Install the dependencies:
+
+npm install
+
+
+	4.	Create a .env file and add your API key:
+
+VITE_API_KEY=your_news_api_key
+
+
+	5.	Start the development server:
+
+npm start
+
+
+
+Visit http://localhost:3000 to see the app in action.
+
+Technologies Used
+	•	React: Frontend framework for building user interfaces.
+	•	NewsAPI: Provides real-time, curated news from various sources.
+	•	CSS: Custom styles for a modern, classy look.
+
+Contact
+
+Debesh Behera
+Email: anshubehera112@gmail.com
+
+⸻
+
+Feel free to contribute to this project or reach out if you have any questions!
