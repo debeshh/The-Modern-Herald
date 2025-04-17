@@ -12,7 +12,7 @@ The Modern Herald is an AI-powered news app that curates top headlines in catego
 ## Demo
 
 Check out the live demo here:  
-[Demo - The Modern Herald](https://fake-demo-url.com)
+[Demo - The Modern Herald](https://themodernherald.netlify.app/)
 
 ## Installation
 
