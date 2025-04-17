@@ -12,3 +12,28 @@ body {
   transform: scale(1.03);
   box-shadow: 0 8px 20px rgba(255, 255, 255, 0.1);
 }
+.classy-heading {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 2.5rem;
+  letter-spacing: 1px;
+  font-weight: 600;
+  color: #fff;
+  text-shadow: 1px 1px 5px rgba(0,0,0,0.4);
+}
+.navbar-nav .nav-link {
+  margin: 0 10px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #fff;
+  transition: all 0.3s ease-in-out;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #f0f0f0;
+  transform: scale(1.05);
+}
+/* .apple-logo span {
+  font-size: 2rem;
+  letter-spacing: 2px;
+  padding: 10px 16px;
+} */
