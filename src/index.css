@@ -32,8 +32,21 @@ body {
   color: #f0f0f0;
   transform: scale(1.05);
 }
-/* .apple-logo span {
-  font-size: 2rem;
-  letter-spacing: 2px;
-  padding: 10px 16px;
-} */
+
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 330px; 
+  margin: 10px;
+}
